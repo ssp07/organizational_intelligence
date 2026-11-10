@@ -1,0 +1,107 @@
+source,target,relationship
+Azure,Microsoft Fabric,hosts
+Azure,Power BI,integrates_with
+Azure,Databricks,connects_to
+Microsoft Fabric,OneLake,uses
+Microsoft Fabric,Lakehouse,creates
+Power BI,Customer Data,visualizes
+Power BI,Finance Data,visualizes
+Power BI,Supply Chain Data,visualizes
+Databricks,Machine Learning,enables
+Databricks,Apache Spark,uses
+Snowflake,Data Warehouse,stores
+SAP,Finance Data,manages
+SAP,Product Data,manages
+Salesforce,Customer Data,manages
+Dynamics 365,Customer Data,stores
+Teams,Microsoft 365,part_of
+SharePoint,Microsoft 365,part_of
+Copilot,Microsoft 365,extends
+Cloud Migration Project,Azure,migrates_to
+Cloud Migration Project,IT Department,owned_by
+Customer 360 Project,Sales Department,owned_by
+Customer 360 Project,Customer Data,uses
+AI Transformation Project,Copilot,implements
+AI Transformation Project,AI Model,creates
+ERP Modernization Project,SAP,modernizes
+Cybersecurity Project,Security Department,owned_by
+Digital Twin Project,Operations Department,owned_by
+Digital Twin Project,Supply Chain Data,uses
+Data Governance Program,Governance Council,managed_by
+Data Governance Program,Data Steward,managed_by
+Risk Management Program,Executive Board,reported_to
+Sustainability Program,Operations Department,executed_by
+Knowledge Graph Program,Knowledge Graph,creates
+Knowledge Graph Program,Innovation Team,owned_by
+Business Intelligence Platform,Power BI,powered_by
+Data Platform,Microsoft Fabric,powered_by
+ML Platform,Databricks,powered_by
+Enterprise Portal,SharePoint,powered_by
+CRM Platform,Salesforce,powered_by
+ERP System,SAP,powered_by
+Vendor Portal,Vendor,serves
+Analytics Team,Power BI,uses
+Analytics Team,Microsoft Fabric,uses
+Data Engineer,Microsoft Fabric,works_with
+Data Scientist,Databricks,works_with
+Cloud Architect,Azure,works_with
+Security Engineer,Cybersecurity Project,supports
+Finance Manager,Finance Department,belongs_to
+HR Manager,HR Department,belongs_to
+Sales Manager,Sales Department,belongs_to
+Marketing Manager,Marketing Department,belongs_to
+Operations Manager,Operations Department,belongs_to
+Procurement Manager,Procurement Department,belongs_to
+Revenue KPI,Executive Board,reported_to
+Profit KPI,Executive Board,reported_to
+Customer Satisfaction KPI,Sales Department,tracked_by
+Employee Retention KPI,HR Department,tracked_by
+Operational Efficiency KPI,Operations Department,tracked_by
+Data Quality KPI,Governance Council,tracked_by
+Security KPI,Security Department,tracked_by
+AI Model,Machine Learning,based_on
+Recommendation Engine,AI Model,uses
+Forecasting Model,Machine Learning,uses
+Knowledge Graph,NLP Engine,uses
+Microsoft,Azure,provides
+Microsoft,Power BI,provides
+Microsoft,Microsoft Fabric,provides
+AWS,Cloud Migration Project,competes_with
+Google Cloud,Cloud Migration Project,competes_with
+Oracle,SAP,competes_with
+ServiceNow,IT Department,supports
+GitHub,Data Engineer,used_by
+Jira,Project Management,supports
+Confluence,Knowledge Graph Program,supports
+Python,Machine Learning,enables
+SQL,Data Warehouse,queries
+Customer Support Portal,Customer,serves
+Inventory Management,Product,manages
+Procurement Analytics,Vendor,analyzes
+Financial Reporting,Finance Data,reports_on
+Workforce Analytics,Employee,analyzes
+Business Strategy Program,Executive Board,owned_by
+Enterprise Architecture,Cloud Migration Project,guides
+Enterprise Architecture,ERP Modernization Project,guides
+Enterprise Architecture,AI Transformation Project,guides
+Customer Data,Customer,belongs_to
+HR Data,Employee,contains
+Finance Data,Revenue KPI,supports
+Finance Data,Profit KPI,supports
+Product Data,Inventory Management,supports
+Supply Chain Data,Operational Efficiency KPI,supports
+OneLake,Customer Data,stores
+OneLake,Finance Data,stores
+OneLake,Supply Chain Data,stores
+Microsoft Fabric,Customer Data,processes
+Microsoft Fabric,Finance Data,processes
+Microsoft Fabric,HR Data,processes
+Microsoft Fabric,Product Data,processes
+Copilot,Teams,embedded_in
+Copilot,SharePoint,embedded_in
+Copilot,Power BI,integrates_with
+Knowledge Graph,Customer Data,connects
+Knowledge Graph,Product Data,connects
+Knowledge Graph,Finance Data,connects
+Knowledge Graph,HR Data,connects
+Knowledge Graph,Supply Chain Data,connects

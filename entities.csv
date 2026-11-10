@@ -1,0 +1,99 @@
+entity,type
+Azure,Technology
+Microsoft Fabric,Technology
+Power BI,Technology
+Databricks,Technology
+Snowflake,Technology
+SAP,Application
+Salesforce,Application
+Dynamics 365,Application
+Microsoft 365,Application
+Teams,Application
+SharePoint,Application
+Copilot,Technology
+OneLake,Technology
+Data Warehouse,DataAsset
+Lakehouse,DataAsset
+Customer Data,DataAsset
+Product Data,DataAsset
+Finance Data,DataAsset
+Supply Chain Data,DataAsset
+HR Data,DataAsset
+IT Department,Department
+Finance Department,Department
+HR Department,Department
+Sales Department,Department
+Marketing Department,Department
+Operations Department,Department
+Security Department,Department
+Procurement Department,Department
+Innovation Team,Department
+Analytics Team,Department
+Cloud Migration Project,Project
+Customer 360 Project,Project
+AI Transformation Project,Project
+ERP Modernization Project,Project
+Cybersecurity Project,Project
+Digital Twin Project,Project
+Data Governance Program,Project
+Risk Management Program,Project
+Sustainability Program,Project
+Knowledge Graph Program,Project
+Business Intelligence Platform,System
+Data Platform,System
+ML Platform,System
+Enterprise Portal,System
+CRM Platform,System
+ERP System,System
+Vendor Portal,System
+Governance Council,Organization
+Executive Board,Organization
+Data Steward,Role
+Business Analyst,Role
+Data Engineer,Role
+Data Scientist,Role
+Cloud Architect,Role
+Security Engineer,Role
+Finance Manager,Role
+HR Manager,Role
+Sales Manager,Role
+Marketing Manager,Role
+Operations Manager,Role
+Procurement Manager,Role
+Customer,BusinessEntity
+Vendor,BusinessEntity
+Employee,BusinessEntity
+Partner,BusinessEntity
+Product,BusinessEntity
+Revenue KPI,Metric
+Profit KPI,Metric
+Customer Satisfaction KPI,Metric
+Employee Retention KPI,Metric
+Operational Efficiency KPI,Metric
+Data Quality KPI,Metric
+Security KPI,Metric
+AI Model,AIAsset
+Recommendation Engine,AIAsset
+Forecasting Model,AIAsset
+Knowledge Graph,AIAsset
+Microsoft,Vendor
+AWS,Vendor
+Google Cloud,Vendor
+Oracle,Vendor
+ServiceNow,Vendor
+GitHub,Vendor
+Jira,Vendor
+Confluence,Vendor
+Apache Spark,Technology
+Python,Technology
+SQL,Technology
+Machine Learning,Technology
+Deep Learning,Technology
+NLP Engine,Technology
+Customer Support Portal,System
+Inventory Management,System
+Procurement Analytics,System
+Financial Reporting,System
+Workforce Analytics,System
+Business Strategy Program,Project
+Enterprise Architecture,System

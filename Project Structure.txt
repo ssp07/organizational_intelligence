@@ -1,0 +1,9 @@
+organizational_intelligence/
+
+app.py
+requirements.txt
+README.md
+
+documents.csv
+entities.csv
+relationships.csv
